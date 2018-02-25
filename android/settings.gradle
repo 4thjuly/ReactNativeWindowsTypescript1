@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeWindowsTypescript1'
+
+include ':app'
